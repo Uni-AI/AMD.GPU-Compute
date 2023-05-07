@@ -7,4 +7,16 @@ https://www.google.com/search?q=tensorflow+on+amd+gpu
 - source: https://github.com/RadeonOpenCompute/ROCm
 - wiki: https://en.wikipedia.org/wiki/ROCm
 
+# Machine Learning
 https://en.wikipedia.org/wiki/ROCm#Machine_learning
+
+Various Deep Learning frameworks have a ROCm backend:[18]
+
+- PyTorch
+- TensorFlow
+- ONNX
+- MXNet
+- CuPy[19]
+- MIOpen
+- Caffe
+- Iree (which uses LLVM Multi-Level Intermediate Representation (MLIR))
